@@ -27,42 +27,39 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "V1",
-      "file_name": "downloads/觅光_YcFeller_V1_正式版.bin",
-      "versionCode": 1
+      "version": "V2",
+      "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
+      "versionCode": 2
     },
     "xmrw5xring": {
-      "version": "V1",
-      "file_name": "downloads/觅光_YcFeller_V1_正式版.bin",
-      "versionCode": 1
+      "version": "V2",
+      "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
+      "versionCode": 2
     },
     "xmrw6": {
-      "version": "V1",
-      "file_name": "downloads/觅光_YcFeller_V1_正式版.bin",
-      "versionCode": 1
+      "version": "V2",
+      "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
+      "versionCode": 2
     }
   },
   "ext": {
     "enableAstroBoxCreatorFeatures": true,
     "trialDownloads": {
       "xmrw5": {
-        "version": "Sy-V1",
-        "file_name": "downloads/trial/觅光_YcFeller_V1_试用版.bin",
-        "versionCode": 1
+        "version": "Sy-V2",
+        "file_name": "downloads/trial/觅光_YcFeller_V2_试用版.bin",
+        "versionCode": 2
       },
       "xmrw5xring": {
-        "version": "Sy-V1",
-        "file_name": "downloads/trial/觅光_YcFeller_V1_试用版.bin",
-        "versionCode": 1
+        "version": "Sy-V2",
+        "file_name": "downloads/trial/觅光_YcFeller_V2_试用版.bin",
+        "versionCode": 2
       },
       "xmrw6": {
-        "version": "Sy-V1",
-        "file_name": "downloads/trial/觅光_YcFeller_V1_试用版.bin",
-        "versionCode": 1
+        "version": "Sy-V2",
+        "file_name": "downloads/trial/觅光_YcFeller_V2_试用版.bin",
+        "versionCode": 2
       }
-    },
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/YcFeller/astrobox-resource-979853048574/main/wallpaper/wallpaper.json"
     }
   }
 }
