@@ -22,24 +22,24 @@
     {
       "title": "赞助获取地址",
       "url": "https://wear.xunrix.com/shop",
-      "icon": "ShoppingCart"
+      "icon": "shopping-cart"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "V2",
+      "version": "1.0.2",
       "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
-      "versionCode": 2
+      "versionCode": 65538
     },
     "xmrw5xring": {
-      "version": "V2",
+      "version": "1.0.2",
       "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
-      "versionCode": 2
+      "versionCode": 65538
     },
     "xmrw6": {
-      "version": "V2",
+      "version": "1.0.2",
       "file_name": "downloads/觅光_YcFeller_V2_正式版.bin",
-      "versionCode": 2
+      "versionCode": 65538
     }
   },
   "ext": {
